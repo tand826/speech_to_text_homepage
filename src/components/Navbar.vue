@@ -10,7 +10,7 @@
       class="inline-flex items-center text-black-800 text-2xl md:text-3xl font-bold gap-2.5"
       aria-label="logo"
     >
-      <img src="/src/assets/icon.svg" alt="logo" class="w-10" />
+      <img src="/icon.svg" alt="logo" class="w-10" />
 
       Speech to Text
     </a>
