@@ -20,7 +20,7 @@
 
           <h3 class="text-lg md:text-xl font-semibold text-center mb-2">Voice Recognition</h3>
           <p class="text-gray-500 text-center mb-2">
-            Filler text is dummy text which has no meaning however looks very similar to real text.
+            Precise and light weighted recognition prevent your instant ideas from fading away.
           </p>
           <a
             href="#gallery"
